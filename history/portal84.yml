@@ -1,7 +1,7 @@
 url: http://trackingpy.idretail.com/o3web/
-status: up
-code: 200
-responseTime: 6291
-lastUpdated: 2023-08-20T23:10:30.029Z
+status: down
+code: 503
+responseTime: 1792
+lastUpdated: 2023-08-21T01:08:34.115Z
 startTime: 2022-12-22T13:43:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
