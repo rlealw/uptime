@@ -4,7 +4,7 @@
     "url": "http://trackingpy.idretail.com/o3web/",
     "icon": "https://icons.duckduckgo.com/ip3/trackingpy.idretail.com.ico",
     "slug": "portal84",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2467,
     "timeYear": 2269,
     "dailyMinutesDown": {
+      "2024-04-18": 0,
       "2024-04-10": 110,
       "2024-04-09": 22,
       "2024-04-08": 16,
