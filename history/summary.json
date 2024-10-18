@@ -6,15 +6,15 @@
     "slug": "portal84",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "98.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.73%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.28%",
     "time": 2133,
-    "timeDay": 2417,
-    "timeWeek": 1787,
-    "timeMonth": 1684,
-    "timeYear": 2103,
+    "timeDay": 1216,
+    "timeWeek": 1700,
+    "timeMonth": 1662,
+    "timeYear": 2102,
     "dailyMinutesDown": {
       "2024-10-16": 24,
       "2024-09-27": 44,
@@ -70,8 +70,7 @@
       "2023-11-22": 163,
       "2023-11-14": 19,
       "2023-11-06": 485,
-      "2023-10-25": 49,
-      "2023-10-19": 50
+      "2023-10-25": 49
     }
   }
 ]
