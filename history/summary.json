@@ -4,19 +4,19 @@
     "url": "http://trackingpy.idretail.com/o3web/",
     "icon": "https://icons.duckduckgo.com/ip3/trackingpy.idretail.com.ico",
     "slug": "portal84",
-    "status": "down",
+    "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "84.19%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "91.86%",
-    "uptimeYear": "96.89%",
-    "time": 2045,
-    "timeDay": 2379,
-    "timeWeek": 2313,
-    "timeMonth": 2311,
-    "timeYear": 2077,
+    "uptimeDay": "82.15%",
+    "uptimeWeek": "88.99%",
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "96.90%",
+    "time": 2043,
+    "timeDay": 1931,
+    "timeWeek": 2242,
+    "timeMonth": 2291,
+    "timeYear": 2075,
     "dailyMinutesDown": {
-      "2025-07-09": 228,
+      "2025-07-09": 257,
       "2025-07-07": 136,
       "2025-07-06": 140,
       "2025-07-04": 293,
@@ -97,8 +97,7 @@
       "2025-02-17": 395,
       "2025-02-15": 80,
       "2025-02-14": 138,
-      "2025-02-12": 24,
-      "2025-02-09": 82
+      "2025-02-12": 24
     }
   }
 ]
