@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/trackingpy.idretail.com.ico",
     "slug": "portal84",
     "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "93.18%",
-    "uptimeYear": "96.87%",
-    "time": 2087,
-    "timeDay": 2935,
-    "timeWeek": 2415,
-    "timeMonth": 2463,
-    "timeYear": 2122,
+    "uptime": "98.81%",
+    "uptimeDay": "88.50%",
+    "uptimeWeek": "94.03%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "96.89%",
+    "time": 2088,
+    "timeDay": 0,
+    "timeWeek": 2495,
+    "timeMonth": 2482,
+    "timeYear": 2124,
     "dailyMinutesDown": {
+      "2025-08-03": 65,
+      "2025-08-02": 101,
       "2025-08-01": 73,
       "2025-07-29": 16,
       "2025-07-28": 183,
@@ -97,8 +99,7 @@
       "2025-03-04": 305,
       "2025-03-03": 197,
       "2025-02-26": 114,
-      "2025-02-25": 183,
-      "2025-02-24": 161
+      "2025-02-25": 70
     }
   }
 ]
